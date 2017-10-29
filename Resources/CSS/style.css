@@ -3,17 +3,19 @@ html {
   text-align: center;
 }
 
+span {
+  background-image: url("../Images/Flatiron_Building.png")
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-color: brown;
 }
 
 h4 {
   font-size: 18px;
   color: white;
-  background-color: navy;
 }
 
 h2 {
@@ -30,7 +32,6 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-color: purple;
 }
 
 p {
