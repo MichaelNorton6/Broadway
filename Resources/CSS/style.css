@@ -4,14 +4,14 @@ html {
 }
 
 span {
-  background-image: url('./Images/Flatiron_Building.png');
+  background-image: url('/Images/Flatiron_Building.png');
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url('./Images/Flatiron_Building.png');
+  background-image: url('Images/Flatiron_Building.png');
 }
 
 h4 {
