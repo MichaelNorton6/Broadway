@@ -3,10 +3,9 @@ html {
   text-align: center;
 }
 
-span {
-  background-image: url('../Images/Flatiron_Building.png');
-  width: 100%
-}
+.headlist {
+  font-size: 18px;
+  color: white;
 
 h1 {
   font-size: 70px;
@@ -33,6 +32,8 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url('../Images/Flatiron_Building.png')
+  width: 100%
 }
 
 p {
