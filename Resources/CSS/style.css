@@ -6,6 +6,7 @@ html {
 .headlist {
   font-size: 18px;
   color: white;
+  background-image: url('../Images/Flatiron_Building.png');
 
 h1 {
   font-size: 70px;
@@ -32,7 +33,7 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url('../Images/Flatiron_Building.png')
+  background-image: url('./Images/Flatiron_Building.png')
   width: 100%
 }
 
