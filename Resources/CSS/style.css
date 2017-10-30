@@ -5,13 +5,13 @@ html {
 
 span {
   background-image: url('../Images/Flatiron_Building.png');
+  width: 100%
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url('../Images/Flatiron_Building.png');
 }
 
 h4 {
@@ -44,4 +44,8 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+a: link {
+  color: white;
 }
