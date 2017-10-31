@@ -3,6 +3,10 @@ html {
   text-align: center;
 }
 
+ul {
+  list-style-type: none;
+
+}
 .headlist {
   font-size: 18px;
   color: white;
@@ -33,7 +37,7 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url('./Images/Flatiron_Building.png')
+  background-image: url("../Images/Flatiron_Building.png")
   width: 100%
 }
 
