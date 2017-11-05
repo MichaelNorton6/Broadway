@@ -11,6 +11,7 @@ a:link, a:visited {
   font-size: 18px;
   color: white;
   background-image: url("../Images/Flatiron_Building.png");
+  background-size: cover;
 }
 
 #top {
@@ -48,4 +49,9 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.bottom {
+  font-size: 17px;
+  font-weight: bold;
 }
